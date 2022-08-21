@@ -300,6 +300,10 @@
                                                 background: linear-gradient(rgb(161, 129, 129),rgb(255, 255, 255));
                                                 font-family:serif ;
                                             }
+                                        
+                                             .cards{
+                                                margin-top: 20px;
+                                            }
                                             
                                         }
     
